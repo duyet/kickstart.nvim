@@ -20,6 +20,7 @@ return {
         mappings = {
           ['\\'] = 'close_window',
           ['e'] = 'close_window',
+          ['h'] = 'toggle_hidden',
         },
       },
     },
